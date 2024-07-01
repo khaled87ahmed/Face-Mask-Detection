@@ -1,5 +1,9 @@
 # Face Mask Detection
 
+## Dataset
+- The dataset used for this project is the [Face Mask 12k Images Dataset](https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset) from Kaggle.
+- This dataset consists of images categorized into 'WithMask' and 'WithoutMask' classes, essential for training a face mask detection model.
+
 ## Problem Statement
 - Detection of individuals wearing face masks is crucial for public health and safety.
 - Automated face mask detection using deep learning can aid in enforcing mask-wearing protocols.
@@ -7,7 +11,7 @@
 ## Objectives
 1. **Data Preparation:**
    - Import essential libraries.
-   - Load a dataset of face images with and without masks.
+   - Load the Face Mask 12k Images Dataset.
 
 2. **Data Exploration:**
    - Examine image shapes and visualize random samples to understand data distribution.
